@@ -17,4 +17,3 @@ Allocates mice into N groups with exactly equal numbers per group, balancing on 
 
 ---
 
-Add a summary for each new script you include in
